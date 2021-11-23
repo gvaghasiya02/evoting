@@ -1,7 +1,6 @@
 # evoting
 
 ## About The Project
-    write intro
 ## Functionalities
 
 We have three user categories:

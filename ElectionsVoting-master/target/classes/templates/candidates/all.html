@@ -22,11 +22,7 @@
 
                     <div class="flip-card" th:each="c : ${candidates}" style="width: 40%; margin:5% auto; display:inline-block;">
                         <div class="flip-card-inner">
-                            <div class="flip-card-front" >
-                                <img class="align-self-center my-img" th:src="@{/img/{filename}(filename=${c.photo})}"
-                                     style="width:100px;height:100px;"
-                                     th:alt="${c.name}">
-                            </div>
+                            
                             <div class="flip-card-back">
                                 <h3 class="text" th:text="${c.name}+' '+${c.surname} "></h3>
                                 <a th:href="@{/candidates/vote/{id}(id=${c.id})}" class="btn btn-danger btn-lg">CHOOSE

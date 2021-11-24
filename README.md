@@ -39,3 +39,10 @@ Each functionality mentioned below is bundled with a user category and can be ac
 10. Viewing Result:
     -The Admin or Election Officer can view the result.
     -Result will be declared who is winning the election, which party is first, % voting done etc.
+11. Https and SSL enabled on server:
+    -For security purposes we enabled SSL and https protocols on application.
+    -So data transferred through server and client will be secure and encrypted. It provides secrecy of data in application.
+    -Key pair generated through keytool utility that is required to run both applications.
+12. Token Generation:
+    -Whenever a voter added then a unique token generated valid for 3 hrs.
+    -That will provide authentication and uniqueness to the application.

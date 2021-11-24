@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf38e90-e832-439a-afe3-9eccb7e8cfec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ElectionsManagement-master/springboot-electionsmanagement.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-votingwebapp.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/candidates/all.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/candidates/all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +73,8 @@
       <workItem from="1637581641428" duration="558000" />
       <workItem from="1637582832201" duration="236000" />
       <workItem from="1637644040205" duration="1013000" />
+      <workItem from="1637727723083" duration="476000" />
+      <workItem from="1637728687987" duration="1050000" />
     </task>
     <servers />
   </component>
@@ -90,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
